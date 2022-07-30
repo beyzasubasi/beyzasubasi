@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Offensive Security and Cyber Threat Intelligence
 - 🌱 I’m currently learning Penetration Testing
-- 💬 Ask me everything about Cybersecurity and let's learn together
+- 💬 Ask me everything about Cyber Security and let's learn together
 
 ---------------------------------
  
